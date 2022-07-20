@@ -1,0 +1,11 @@
+body {
+  background-image:url("winter.png");
+}
+
+#scene {
+  /* border: 1px dotted red; */
+  width: 1330px;
+  height: 635px;
+  position: relative; 
+  
+}
